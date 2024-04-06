@@ -20,11 +20,11 @@ The main goal is to have more time to **Pwn** and less time to **Doc** by mutual
 # Demos
 
 #### Multi-User reporting
-[shared_audit_demo.gif](https://github.com/softdev1012/pwndoc/blob/main/demos/shared_audit_demo.gif)
+![shared_audit_demo](https://github.com/softdev1012/pwndoc/blob/main/demos/shared_audit_demo.gif?raw=true)
 
 #### Finding edition
-[audit_finding_demo.gif](https://github.com/softdev1012/pwndoc/blob/main/demos/audit_finding_demo.gif)
+![audit_finding_demo](D:\Tonny\git_repos\pwndoc\demos\audit_finding_demo.gif)
 
 #### Vulnerability management workflow
-[create_and_update_finding.gif](https://github.com/softdev1012/pwndoc/blob/main/demos/create_and_update_finding.gif)
+![create_and_update_finding](https://github.com/softdev1012/pwndoc/blob/main/demos/create_and_update_finding.gif?raw=true)
 
